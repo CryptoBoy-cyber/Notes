@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "ad79024912db78e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bcb11449202bdbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c99bad8ce3efa20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfd0d128cf085513",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c33b0b1cad55af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59c20bef5f0dec2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c80b0073548b95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0addfa6923cf383c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03281a9abed43b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ae4bcf5ec4650d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0689a73407138436",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "748668315333aae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2194519c6aab7afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adb2c02eb7767f1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e59c20bef5f0dec2",
+  "lastOpenFiles": [
+    "Sections/Sec-1 (Introduction To Networking)/Ch-3 Fundamentals of WANs and IP Routing",
+    "Sections/Sec-1 (Introduction To Networking)/Ch-2 Fundamentals of Ethernet LANs",
+    "Sections/Sec-1 (Introduction To Networking)/Ch-1 Intro to TCP-IP Networking",
+    "Sections/Sec-1 (Introduction To Networking)",
+    "Other Stuff",
+    "Sections",
+    "Images & Audio",
+    "Welcome.md"
+  ]
+}
